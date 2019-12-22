@@ -12,13 +12,14 @@
 	</dependencies>
 	<shortDescription>Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Appearance aware wallpapers<br/>
+		from macOS Mojave and Catalina<br/>
+		for iOS 13 dark mode.
 		]]>
 		</description>
+		<description>Uses WallpaperLoader by Skitty.</description>
+		<description>Repo: https://skitty.xyz/repo/</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -31,9 +32,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
