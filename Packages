@@ -1,0 +1,14 @@
+Package: com.jp.macosdynwp
+Name: macOS Dynamic Wallpaper (Light/Dark mode iOS13)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
+Maintainer: JP
+Author: JP
+Section: Wallpaper
+Depends: wallpaperloader, firmware (>= 13.0)
+Filename: debs/com.jp.macosdynwp_iphoneos-arm_1.0.deb
+Size: 10000000
+MD5sum: 32c66278da8920de104a0a03a61a88b3
+SHA1: c4a8e6e01dbf6dbaa36cd01681a191bf397881a7
+SHA256: ba4c019591be91362ca374f6f16aedcef588cf366e9220c601c6defa9fd95113
