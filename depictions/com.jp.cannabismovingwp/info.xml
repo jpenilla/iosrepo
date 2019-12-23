@@ -1,6 +1,6 @@
 <package>
-	<id>com.jp.macosdynwp</id>
-	<name>macOS Dynamic Wallpapers</name>
+	<id>com.jp.cannabismovingwp</id>
+	<name>Cannabis Leaf Moving Wallpaper</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>wallpaperloader</package>
+		<package>com.spark.snowboard.proceduralwallpapers</package>
 	</dependencies>
 	<shortDescription>Replace the moving bubble default wallpapers with cannbis leaves using SnowBoard extensions.</shortDescription>
 	<descriptionlist>
