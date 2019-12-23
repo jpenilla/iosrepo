@@ -1,15 +1,16 @@
 Package: com.jp.macosdynwp
-Name: macOS Dynamic Wallpapers
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
 Maintainer: JP
-Author: JP
-Section: Wallpaper
 Depends: wallpaperloader, firmware (>= 13.0)
 Filename: debs/com.jp.macosdynwp_iphoneos-arm_1.0.deb
 Size: 10791236
 MD5sum: 20059491d82710012157c40ef3447355
 SHA1: 41b96439fe3fc69d9129fd4f9139e4f2256b3adb
 SHA256: 3e331306bde79b5a7613b8ad5aa4f3293418003fac050bdf6156b5778ab0b366
+Section: Wallpaper
+Description: Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
+Author: JP
 Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.macosdynwp
+Name: macOS Dynamic Wallpapers
+
