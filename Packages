@@ -1,3 +1,19 @@
+Package: com.jp.cannabismovingwp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: com.spark.snowboard.proceduralwallpapers
+Filename: debs/com.jp.cannabismovingwp_iphoneos-arm_1.0.deb
+Size: 110248
+MD5sum: 78395381d6fd569a0dbd22a021117ba8
+SHA1: 7cfb308129102f767b4dbcd2c18f212247a19852
+SHA256: 055f964dc836fffb281ce330b93e2d209bdf9cdbe30e86854e7e22042da63d15
+Section: Wallpaper
+Description: Change default iOS moving bubble wallpapers into moving cannabis leaves
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.cannabismovingwp
+Name: Cannabis Leaf Moving Wallpaper
+
 Package: com.jp.macosdynwp
 Version: 1.0
 Architecture: iphoneos-arm

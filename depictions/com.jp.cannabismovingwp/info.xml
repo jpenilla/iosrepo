@@ -1,0 +1,56 @@
+<package>
+	<id>com.jp.macosdynwp</id>
+	<name>macOS Dynamic Wallpapers</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.4.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>wallpaperloader</package>
+	</dependencies>
+	<shortDescription>Replace the moving bubble default wallpapers with cannbis leaves using SnowBoard extensions.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		Change the moving bubble "dynamic"<br/>
+		wallpapers into moving cannabis leaves
+		]]>
+		</description>
+		<description>Requires SnowBoard Procedural Wallpaper Extension</description>
+		<description>Repo: https://sparkdev.me/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Green</description>
+			<image>0.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>SnowBoard Theme</description>
+			<image>4.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Settings</description>
+			<image>3.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Yellow</description>
+			<image>1.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Red</description>
+			<image>2.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
