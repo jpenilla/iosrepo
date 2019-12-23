@@ -1,0 +1,51 @@
+<package>
+	<id>com.jp.blackwhitedynwp</id>
+	<name>Black and White Dynamic Wallpapers</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>wallpaperloader</package>
+	</dependencies>
+	<shortDescription>Appearance aware wallpapers with a black and white theme for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/</shortDescription>
+	<descriptionlist>
+		<description>Appearance aware wallpapers with a black and white theme that change with iOS 13 dark mode.</description>
+		<description>Uses WallpaperLoader by Skitty.</description>
+		<description>Repo: https://skitty.xyz/repo/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Bottom two wallpapers are added by this pack. Apply in settings default wallpaper section.</description>
+			<image>4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>checkra1n dark</description>
+			<image>0.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>checkra1n light</description>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>black</description>
+			<image>3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>white</description>
+			<image>2.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
