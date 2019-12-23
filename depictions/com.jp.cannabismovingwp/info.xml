@@ -24,16 +24,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Green</description>
-			<image>0.PNG</image>
+			<description>Green/Black</description>
+			<image>5.PNG</image>
 		</screenshot>
 		<screenshot>
 			<description>SnowBoard Theme</description>
 			<image>4.PNG</image>
 		</screenshot>
 		<screenshot>
+			<description>Green</description>
+			<image>0.PNG</image>
+		</screenshot>
+		<screenshot>
 			<description>Settings</description>
 			<image>3.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Silver</description>
+			<image>7.PNG</image>
 		</screenshot>
 		<screenshot>
 			<description>Yellow</description>
@@ -42,6 +50,10 @@
 		<screenshot>
 			<description>Red</description>
 			<image>2.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Green/Black</description>
+			<image>6.PNG</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
