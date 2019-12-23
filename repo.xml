@@ -1,6 +1,11 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Repo homepage</name>
+			<url>https://jmanpenilla.github.io/iosrepo/</url>
+			<iconclass>fa fa-home</iconclass>
+		</link>
+		<link>
 			<name>I want this depiction template</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
