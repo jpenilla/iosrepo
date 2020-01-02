@@ -13,8 +13,8 @@
 	<shortDescription>Disables CC Grabber Bar on Lock Screen</shortDescription>
 	<descriptionlist>
 		<description>iOS 13.0+ NoCCBar Tweak.</description>
-		<description>Hides the Control Center Grabber bar in top corner of iPhone X style devices for a cleaner look.</description>
-		<description>The tweak was acquired from this GitHub repo with no included license, and I didn't see a tweak like this for iOS 13 so I uploaded it here.</description>
+		<description>Hides the Control Center Grabber bar in the top right corner of the Lock Screen on iPhone X style devices for a cleaner look.</description>
+		<description>This tweak was acquired from this GitHub repo (no licenses on the repo) and reposted here, and I didn't see a tweak like this for iOS 13 so I uploaded it.</description>
 		<description>Deb package file is unmodified from GitHub releases page, feel free to compare hashes and etcetera.</description>
 		<description>https://github.com/bermudalocket/ios-noccbar/</description>
 	</descriptionlist>
