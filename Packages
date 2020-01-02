@@ -1,3 +1,19 @@
+Package: com.bermudalocket.noccbar
+Version: 0.1-19+debug
+Architecture: iphoneos-arm
+Maintainer: bermudalocket
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.bermudalocket.noccbar_0.1-19+debug_iphoneos-arm.deb
+Size: 3804
+MD5sum: c1662c085a8150289348ff550d2576f6
+SHA1: 17072ffa74c643cf2b633c3b08299d1469035b97
+SHA256: 50b3c0c12eacccc33370807b7ed3dbb72c386d539cc562c9d9946290d96a7648
+Section: Tweaks
+Description: Hide the control center bar on iOS 13.
+Author: bermudalocket
+Name: noccbar
+
 Package: com.jp.blackwhitedynwp
 Version: 1.0
 Architecture: iphoneos-arm
