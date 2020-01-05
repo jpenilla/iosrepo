@@ -12,7 +12,6 @@ SHA256: 50b3c0c12eacccc33370807b7ed3dbb72c386d539cc562c9d9946290d96a7648
 Section: Tweaks
 Description: Hide the control center bar on iOS 13.
 Author: bermudalocket
-Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.bermudalocket.noccbar
 Name: noccbar
 
 Package: com.jp.blackwhitedynwp
@@ -46,6 +45,22 @@ Description: Change default iOS moving bubble wallpapers into moving cannabis le
 Author: JP
 Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.cannabismovingwp
 Name: Cannabis Leaf Moving Wallpaper
+
+Package: com.jp.juicepack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: com.spark.juice
+Filename: debs/com.jp.juicepack_iphoneos-arm_1.0.deb
+Size: 117208
+MD5sum: 1b910b569d87572d4b1e15baa1af5691
+SHA1: 51af27feb293154ea61256de40fbf211cb1d3100
+SHA256: 2713c43e5b8a6d545aabdb3686884bb4740668d528a49776adffda2879479335
+Section: Themes
+Description: Some battery icon themes I've created for Juice by SparkDev
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.juicepack
+Name: Juice Theme Pack
 
 Package: com.jp.macosdynwp
 Version: 1.0

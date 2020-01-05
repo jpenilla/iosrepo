@@ -1,0 +1,36 @@
+<package>
+	<id>com.jp.juice</id>
+	<name>Juice Theme Pack</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.9.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.juice</package>
+	</dependencies>
+	<shortDescription>A collection of Juice battery themes I've made</shortDescription>
+	<descriptionlist>
+		<description>A collection of Juice battery themes I've created. Check screenshots.</description>
+		<description>Requires Juice by SparkDev</description>
+		<description>Repo: https://sparkdev.me/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Green/Black</description>
+			<image>Untitled-1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Juice Depiction</name>
+			<url>https://sparkdev.me/package/com.spark.juice</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</links>
+</package>
