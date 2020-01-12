@@ -79,6 +79,22 @@ Author: JP
 Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.juicepack
 Name: Juice Theme Pack
 
+Package: com.jp.juicepack
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: com.spark.juice
+Filename: debs/com.jp.juicepack_iphoneos-arm_1.1.1.deb
+Size: 117356
+MD5sum: bb12567afa119b1534637d4cc3bc2dd7
+SHA1: b7e07d12b1971b1cd903463777b6a0389fb8c579
+SHA256: 3408fcfb7ee4887306a1acdc6834fd28aac2d7481be8bf10d83300a14181bbd4
+Section: Themes
+Description: Some battery icon themes I've created for Juice by SparkDev
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.juicepack
+Name: Juice Theme Pack
+
 Package: com.jp.macosdynwp
 Version: 1.0
 Architecture: iphoneos-arm
@@ -105,6 +121,22 @@ Size: 23751816
 MD5sum: 22217c8d3f88c9e06a6b3eb5aa2d92f5
 SHA1: add615a86876ba464bee0ae1781addbf41bfe31a
 SHA256: 1cd5fb2dc88cfd8125b898aa53525fe005dfee817c6117792519a422f8b1105f
+Section: Wallpaper
+Description: Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.macosdynwp
+Name: macOS Dynamic Wallpapers
+
+Package: com.jp.macosdynwp
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: wallpaperloader, firmware (>= 13.0)
+Filename: debs/com.jp.macosdynwp_iphoneos-arm_1.2.1.deb
+Size: 23751808
+MD5sum: 3a770f18decc2d7ed23fa2c94ceeb4d2
+SHA1: c167ca7f1bb51537ae15aa420118568d49eccd18
+SHA256: 6d9b8ea39bc45d7871246e35de7cc55f2ef2cf2193fd855965371ccb9deb3bde
 Section: Wallpaper
 Description: Appearance aware wallpapers from macOS Mojave and Catalina for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
 Author: JP
