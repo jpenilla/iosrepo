@@ -1,7 +1,7 @@
 <package>
 	<id>com.jp.juice</id>
 	<name>Juice Theme Pack</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -22,9 +22,13 @@
 			<description>Dynamically changes color with the status bar</description>
 			<image>Untitled-1.jpg</image>
 		</screenshot>
+		<screenshot>
+			<description>New theme in 1.1 "S1mple"</description>
+			<image>1-1.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Added 1 new theme "S1mple"</change>
 	</changelog>
 	<links>
 		<link>

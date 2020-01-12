@@ -63,6 +63,22 @@ Author: JP
 Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.juicepack
 Name: Juice Theme Pack
 
+Package: com.jp.juicepack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: com.spark.juice
+Filename: debs/com.jp.juicepack_iphoneos-arm_1.1.deb
+Size: 117816
+MD5sum: 74ae81315f759ef35506be6500a38714
+SHA1: c69ba7926eb8d9801550f85ab7631e56b01835a0
+SHA256: b9e572ad8ee804ac8433c963d16caab9b663339124375f8769aa42d4ffe2105a
+Section: Themes
+Description: Some battery icon themes I've created for Juice by SparkDev
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.juicepack
+Name: Juice Theme Pack
+
 Package: com.jp.macosdynwp
 Version: 1.0
 Architecture: iphoneos-arm
