@@ -12,7 +12,6 @@ SHA256: 50b3c0c12eacccc33370807b7ed3dbb72c386d539cc562c9d9946290d96a7648
 Section: Tweaks
 Description: Hide the control center bar on iOS 13.
 Author: bermudalocket
-Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.bermudalocket.noccbar
 Name: noccbar
 
 Package: com.jp.blackwhitedynwp
