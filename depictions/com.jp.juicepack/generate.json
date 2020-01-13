@@ -1,17 +1,17 @@
 {
     "tintColor": "#0657bb",
-    "headerImage": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "headerImage": "",
     "tabs": [
         {
             "views": [
                 {
-                    "title": "a",
+                    "title": "JuiceThemePack",
                     "useBottomMargin": false,
                     "useBoldText": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "A",
+                    "markdown": "A collection of Juice battery themes I've made",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -25,13 +25,17 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.juicepack/screenshots/Untitled-1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.juicepack/screenshots/1-1.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "markdown": "a",
+                    "markdown": "A collection of Juice battery themes I've created. Check screenshots.\r\n\r\nRequires Juice by SparkDev\r\n\r\nRepo: https://sparkdev.me/",
                     "title": "markdown-description",
                     "useBottomMargin": false,
                     "useBoldText": true,
@@ -43,7 +47,7 @@
                 {
                     "title": "Version",
                     "class": "DepictionTableTextView",
-                    "text": "1"
+                    "text": "1.1.1"
                 },
                 {
                     "title": "Released",
@@ -62,7 +66,7 @@
                 {
                     "title": "Developer",
                     "class": "DepictionTableTextView",
-                    "text": "a"
+                    "text": "JP"
                 },
                 {
                     "spacing": 8,
