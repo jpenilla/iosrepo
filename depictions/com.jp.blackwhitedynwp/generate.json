@@ -1,0 +1,94 @@
+{
+    "tintColor": "#0657bb",
+    "headerImage": "http://dg.gtb.sg/images/dg17-desktop.jpg",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "title": "BlackandWhiteDynamicWallpapers",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Appearance aware wallpapers with a black and white theme for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/0.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/3.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/2.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/4.jpg"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "Appearance aware wallpapers with a black and white theme for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/",
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "class": "DepictionTableTextView",
+                    "text": "1.0"
+                },
+                {
+                    "title": "Released",
+                    "class": "DepictionTableTextView",
+                    "text": "01-13-2020"
+                },
+                {
+                    "title": "Price",
+                    "class": "DepictionTableTextView",
+                    "text": "Free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "class": "DepictionTableTextView",
+                    "text": "JP"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "minVersion": "0.1"
+}

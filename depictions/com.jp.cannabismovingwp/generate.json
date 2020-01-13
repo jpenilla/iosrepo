@@ -1,0 +1,106 @@
+{
+    "tintColor": "#0657bb",
+    "headerImage": "http://dg.gtb.sg/images/dg17-desktop.jpg",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "title": "CannabisLeafMovingWallpaper",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Change default iOS moving bubble wallpapers into moving cannabis leaves",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/5.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/4.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/0.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/7.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot6",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot7",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.cannabismovingwp/screenshots/6.PNG"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "Change default iOS moving bubble wallpapers into moving cannabis leaves",
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "class": "DepictionTableTextView",
+                    "text": "1.0"
+                },
+                {
+                    "title": "Released",
+                    "class": "DepictionTableTextView",
+                    "text": "01-13-2020"
+                },
+                {
+                    "title": "Price",
+                    "class": "DepictionTableTextView",
+                    "text": "Free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "class": "DepictionTableTextView",
+                    "text": "JP"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "minVersion": "0.1"
+}
