@@ -1,0 +1,78 @@
+{
+    "tintColor": "#0657bb",
+    "headerImage": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "title": "a",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "A",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "a",
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "class": "DepictionTableTextView",
+                    "text": "1"
+                },
+                {
+                    "title": "Released",
+                    "class": "DepictionTableTextView",
+                    "text": "01-13-2020"
+                },
+                {
+                    "title": "Price",
+                    "class": "DepictionTableTextView",
+                    "text": "Free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "class": "DepictionTableTextView",
+                    "text": "a"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "minVersion": "0.1"
+}
