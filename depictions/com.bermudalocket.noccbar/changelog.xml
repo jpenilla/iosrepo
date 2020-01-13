@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.1-19+debug-jp</version>
+		<change>Repacked DEB to include depiction in control file.</change>
+	</changes>
+	<changes>
 		<version>0.1-19+debug</version>
 		<change>Initial Upload</change>
 	</changes>

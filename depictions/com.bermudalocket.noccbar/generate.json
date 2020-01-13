@@ -1,0 +1,82 @@
+{
+    "tintColor": "#0657bb",
+    "headerImage": "http://dg.gtb.sg/images/dg17-desktop.jpg",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "title": "noccbar",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Hide the control center bar on iOS 13.",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.bermudalocket.noccbar/screenshots/0.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.bermudalocket.noccbar/screenshots/1.jpg"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "Hide the control center bar on iOS 13.",
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "class": "DepictionTableTextView",
+                    "text": "0.1-19+debug-jp"
+                },
+                {
+                    "title": "Released",
+                    "class": "DepictionTableTextView",
+                    "text": "01-13-2020"
+                },
+                {
+                    "title": "Price",
+                    "class": "DepictionTableTextView",
+                    "text": "Free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "class": "DepictionTableTextView",
+                    "text": "bermudalocket"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "minVersion": "0.1"
+}
