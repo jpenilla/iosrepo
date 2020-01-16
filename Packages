@@ -48,6 +48,23 @@ Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.blackwhite
 Name: Black and White Dynamic Wallpapers
 Sileodepiction: https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/generate.json
 
+Package: com.jp.blackwhitedynwp
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: JP
+Depends: wallpaperloader, firmware (>= 13.0)
+Filename: debs/com.jp.blackwhitedynwp_iphoneos-arm_1.0.1.deb
+Size: 51800
+MD5sum: f0137d4da2c61cb551acb25f45fc5bf7
+SHA1: f90cbd639e24671ed1b8372b37123206a0d057fb
+SHA256: ad00476bf1a188b327e90caf8e0c0ab35ac49494031b3e545e3818f3c4329397
+Section: Wallpaper
+Description: Appearance aware wallpapers with a black and white theme for iOS 13. Uses WallpaperLoader by Skitty. Get it from this repo: https://skitty.xyz/repo/
+Author: JP
+Depiction: https://jmanpenilla.github.io/iosrepo/depictions/?p=com.jp.blackwhitedynwp
+Name: Black and White Dynamic Wallpapers
+Sileodepiction: https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/generate.json
+
 Package: com.jp.cannabismovingwp
 Version: 1.0
 Architecture: iphoneos-arm
