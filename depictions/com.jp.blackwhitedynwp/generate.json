@@ -25,23 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/0.jpg"
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/1.jpg"
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/3.jpg"
-                        },
-                        {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/2.jpg"
-                        },
-                        {
-                            "accessibilityText": "Screenshot4",
-                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/4.jpg"
+                            "url": "https://jmanpenilla.github.io/iosrepo/depictions/com.jp.blackwhitedynwp/screenshots/3.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView"

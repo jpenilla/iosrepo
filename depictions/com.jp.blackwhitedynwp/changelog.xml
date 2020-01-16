@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fixed thumbnail of checkra1n wallpaper and add a second larger logo checkra1n wallpaper</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
